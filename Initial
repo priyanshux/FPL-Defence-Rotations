@@ -1,0 +1,42 @@
+--INITIAL FDR AGAINST BASED ON TEAMS WHICH ATTACK ASCENDING ORDER--
+
+CATEGORY 1: Home 1 Away 1.5 (Eg, Playing against FUL on your home. i.e Fulham plays away from their home)
+
+FUL
+CRY
+WBA
+
+CATEGORY 2: Home 1.5 Away 2
+
+LEE
+NEW
+SHU
+BHA
+AVL
+
+CATEGORY 3: Home 2 Away 2.5
+
+BUR
+EVE
+
+CATEGORY 4: Home 2.5 Away 3
+
+WHU
+SOU
+
+CATEGORY 5: Home 3 Away 3.5
+
+WOL
+ARS
+TOT
+LEI
+
+CATEGORY 6: Home 3.5 Away 4
+
+CHE
+MUN
+
+CATEGORY 7: Home 4.5 Away 5 (Intentional 1 FDR difference from Category 6)
+
+LIV
+MCI
