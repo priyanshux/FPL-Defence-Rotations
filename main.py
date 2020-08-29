@@ -1,20 +1,25 @@
 import pandas as pd
 import itertools
 
-filename = "FPL_Defence_FDR.csv"
+FILENAME = "FPL_Defence_FDR.csv"
+RATINGS = pd.read_csv(FILENAME)
 
-# my_csv = pd.read_csv(filename, usecols = [i])
+DEF_IN_SQUAD = 5 #Including 2 Goalkeepers
+DEF_IN_XI = 2
 
-# print(my_csv)
+# GAMEWEEK = "GW1"
+# RATINGS = pd.read_csv(FILENAME)
+# TOTAL_COMB = list(itertools.combinations(RATINGS[GAMEWEEK], DEF_IN_SQUAD))
+# TOTAL_COMB = [(sorted(x)[:DEF_IN_XI]) for x in TOTAL_COMB]
+# print(TOTAL_COMB)
 
-DEF_IN_SQUAD = 7 #including two Goalkeepers
-DEF_IN_XI = 4
+def validCombinations():
+  for i in range(1,39,1):
+    GAMEWEEK = "GW{}".format(i)
+    TOTAL_COMB = list(itertools.combinations(RATINGS[GAMEWEEK], DEF_IN_SQUAD))
+    VALID_COMB = [(sum(sorted(x)[:DEF_IN_XI])) for x in TOTAL_COMB]
+    yield(VALID_COMB)
 
+for i in validCombinations():
+  print(i)
 
-
-for i in range(1,39):
-  GAMEWEEK = "GW{}".format(i)
-  my_csv = pd.read_csv(filename)
-  TOTAL_COMB = list(itertools.combinations(my_csv[GAMEWEEK], DEF_IN_SQUAD))
-  VALID_COMB = (sorted(TOTAL_COMB)[:DEF_IN_XI])
-  print(VALID_COMB)
