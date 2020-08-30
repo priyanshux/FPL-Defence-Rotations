@@ -4,7 +4,7 @@ import csv
 
 FILENAME = "FPL_Defence_FDR.csv"
 RATINGS = pd.read_csv(FILENAME)
-DEF_IN_SQUAD = 4 #including two Goalkeepers
+DEF_IN_SQUAD = 4 
 DEF_IN_XI = 2
 STARTING_GW = 1
 ENDING_GW = 11 #GW10 (Increment)
