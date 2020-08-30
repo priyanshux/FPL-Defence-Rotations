@@ -5,4 +5,7 @@ Created for Fantasy Premier League 2020-21, to find the best possible combinatio
 For eg; Out of 5 possible spots available for defenders, TAA had occupied one and I was left with a maximum selection of 4 defenders in the team.
 I usually like playing 3-5-2 or 3-4-3 (might do a 4-4-2 this season), leaving just 2 spots in the playing 11. So I had to find the best possible combinations of 4 teams (preferably avoid LIV) such that at least 2 of them have good fixtures in terms of defending.
 
-The official FDR system is pretty not so good, especially when considered in terms of defending. So I came up with 
+
+WARNING: Personal Fixture Difficulty Rating Used
+
+Created this difficulty rating system specifically for defenders, so don't confuse or assume it to be an overall FDR. Difficulty against teams like SHU is considered to be pretty low since they don't score many goals (they scored 5th least number of goals last season, less than BOU who got relegated), so please keep this in mind.
