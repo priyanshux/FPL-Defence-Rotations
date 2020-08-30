@@ -16,16 +16,13 @@ def validCombinations(GAMEWEEK):
 
 TEAM_COMB = RATINGS.columns
 
-
 for i in range(STARTING_GW, ENDING_GW, 1):
   GW = "GW{}".format(i)
   a = validCombinations(GW)
   # print(len(a))
   TEAM_COMB = TEAM_COMB.insert(i, a)
 
-
-file = open('GW10.csv', 'w+', newline ='') 
-  
+file = open('GW10.csv', 'w+', newline ='')  
 with file:     
     write = csv.writer(file) 
     write.writerows(TEAM_COMB) 
