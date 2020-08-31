@@ -15,7 +15,7 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 
 
 
-## The following are the results:
+### The following are the results:
 
 1.[Rotation of 4 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_2.csv)
 
@@ -34,7 +34,7 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 8.[Rotation of 5 teams for 4 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_4.csv)
 
 
-## Personal favourite defenders to rotate from in GW 1-10
+### Personal favourite defenders to rotate from in GW 1-10
 
 | 4 Teams, 3 Starting | 4 Teams, 2 Starting | 5 Teams, 4 Starting | 5 Teams, 3 Starting |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
@@ -53,7 +53,7 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 
 *My current draft is based on this combination.
 
-## Personal favourite defenders to rotate from in GW 1-15
+### Personal favourite defenders to rotate from in GW 1-15
 
 | 4 Teams, 3 Starting | 4 Teams, 2 Starting | 5 Teams, 4 Starting | 5 Teams, 3 Starting |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
@@ -69,3 +69,4 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 | AVL,BUR,LEI,SOU     | AVL,BUR,CHE,LEI     | BUR,LEI,LIV,MUN,TOT | ARS,AVL,LEI,LIV,TOT |
 | CRY,LEE,NEW,WOL     | CHE,LEE,LEI,LIV     | ARS,BUR,CRY,FUL,NEW | CHE,LEE,LIV,MUN,WBA |
 | BHA,LEI,SHU,SOU     | CRY,MCI,MUN,SOU     | CHE,FUL,LEI,LIV,MUN | ARS,CRY,MCI,MUN,TOT |
+
