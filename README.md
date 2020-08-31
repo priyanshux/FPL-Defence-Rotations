@@ -14,6 +14,18 @@ I've also added rotations of 4 to 2 playing in 11 in case you prefer 3-5-2 or 3-
 Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FDR_Concept "FDR Concept for Defenders") specifically for defenders, so don't confuse or assume it to be an overall FDR. Difficulty against teams like SHU is considered to be pretty low since they don't score many goals (they scored 5th least number of goals last season, less than BOU who got relegated), so please keep this in mind. The final ratings till Gameweek 38 can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FPL_Defence_FDR.csv "Difficulty Ratings for Defenders").
 
 
+### The best way to use this post would be:
+
+1. Don't rely just on the rotation options given below in the tables, I would recommend you to go through all the possible options in the final result for each case.
+
+2. Pick one defender you HAVE TO get, in most cases (including mine), it's TAA.
+
+3. For the remaining cases, think of another solid option you feel would be perfect to have in the team. Even though not as crucial as TAA, it was Vinagre in my case.
+
+4. Now search for options including the word 'WOL'.
+
+5. Don't stick to choices in the first 10 rows. In my opinion, a good combination would be having an 'Average per team' less than or around 2.1-2.2 and a Standard Deviation less than 0.9
+
 
 ### The following are the results:
 
@@ -34,7 +46,7 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 8.[Rotation of 5 teams for 4 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_4.csv)
 
 
-### Personal favourite defenders to rotate from in GW 1-10
+### My favourite options to rotate defenders in GW 1-10
 
 | 4 Teams, 3 Starting | 4 Teams, 2 Starting | 5 Teams, 4 Starting | 5 Teams, 3 Starting |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
@@ -53,7 +65,7 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 
 _*My current draft is based on this combination._
 
-### Personal favourite defenders to rotate from in GW 1-15
+### My favourite options to rotate defenders in GW 1-15
 
 | 4 Teams, 3 Starting | 4 Teams, 2 Starting | 5 Teams, 4 Starting | 5 Teams, 3 Starting |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
