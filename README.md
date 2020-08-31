@@ -1,11 +1,16 @@
 # FPL-Defence-Rotations
 
-Created for Fantasy Premier League 2020-21, to find the best possible combination to rotate defenders in the team.
+## Created for Fantasy Premier League 2020-21
 
-For eg; Out of 5 possible spots available for defenders, TAA had occupied one and I was left with a maximum selection of 4 defenders in the team.
-So I had to find the best possible combination of 4 teams (preferably avoid LIV) such that at least 3 of them have good fixtures in terms of defending.
+### Best options to rotate for GW1-10 and GW1-15:
 
-I've also added rotations of 4 to 2 playing in 11 in case you prefer 3-5-2 or 3-4-3.
+1. Rotate 4 players, start 3 of them and keep 1 on the bench.
+
+2. Rotate 4 players, start 2 of them and keep 2 on the bench.
+
+3. Rotate 5 players, start 4 of them and keep 1 on the bench.
+
+4. Rotate 5 players, start 3 of them and keep 2 on the bench.
 
 
 
@@ -13,10 +18,14 @@ I've also added rotations of 4 to 2 playing in 11 in case you prefer 3-5-2 or 3-
 
 Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FDR_Concept "FDR Concept for Defenders") specifically for defenders, so don't confuse or assume it to be an overall FDR. Difficulty against teams like SHU is considered to be pretty low since they don't score many goals (they scored 5th least number of goals last season, less than BOU who got relegated), so please keep this in mind. The final ratings till Gameweek 38 can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FPL_Defence_FDR.csv "Difficulty Ratings for Defenders").
 
+### The Final Result
+
+[Here](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing) is the worksheet of all the compiled result. The same results in CSV format can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/).
+
 
 ### The best way to use this repo would be:
 
-1. Don't rely just on the rotation options given below in the tables, I would recommend you to go through all the possible options in the final result for each case.
+1. Don't rely just on 'my favourite' options given below in the tables, I would recommend you to go through all the possible options in the final result for each case.
 
 2. Pick one defender you HAVE TO get, in most cases (including mine), it's TAA.
 
@@ -27,7 +36,7 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 5. Don't stick to choices in the first 10 rows. In my opinion, a good combination would be having an 'Average per team' less than or around 2.1-2.2 and a Standard Deviation less than 0.9
 
 
-### The following are the results:
+### Results for all the 8 cases
 
 1.[Rotation of 4 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_2.csv)
 
@@ -82,3 +91,7 @@ _*My current draft is based on this combination._
 | CRY,LEE,NEW,WOL     | CHE,LEE,LEI,LIV     | ARS,BUR,CRY,FUL,NEW | CHE,LEE,LIV,MUN,WBA |
 | BHA,LEI,SHU,SOU     | CRY,MCI,MUN,SOU     | CHE,FUL,LEI,LIV,MUN | ARS,CRY,MCI,MUN,TOT |
 
+
+#### Footer
+
+Feel free to contribute to this repo, or give any suggestions. Hope it helps your FPL season, good luck.
