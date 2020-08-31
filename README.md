@@ -51,7 +51,7 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 | CHE,LEE,SHU,WOL     | BHA,LEI,MUN,SOU     | LEE,LEI,LIV,MUN,WOL | CRY,FUL,LIV,MUN,SOU |
 | BHA,NEW,SHU,SOU     | BUR,LEE,LEI,SOU     | BHA,CHE,LEE,LEI,LIV | ARS,CHE,FUL,LEE,LEI |
 
-*My current draft is based on this combination.
+_*My current draft is based on this combination._
 
 ### Personal favourite defenders to rotate from in GW 1-15
 
