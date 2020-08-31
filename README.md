@@ -9,13 +9,13 @@ I've also added rotations of 4 to 2 playing in 11 in case you prefer 3-5-2 or 3-
 
 
 
-DISCLAIMER: Personal Fixture Difficulty Rating Used
+### DISCLAIMER: Personal Fixture Difficulty Rating Used
 
 Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FDR_Concept "FDR Concept for Defenders") specifically for defenders, so don't confuse or assume it to be an overall FDR. Difficulty against teams like SHU is considered to be pretty low since they don't score many goals (they scored 5th least number of goals last season, less than BOU who got relegated), so please keep this in mind. The final ratings till Gameweek 38 can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FPL_Defence_FDR.csv "Difficulty Ratings for Defenders").
 
 
 
-The following are the results:
+## The following are the results:
 
 1.[Rotation of 4 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_2.csv)
 
@@ -34,7 +34,7 @@ The following are the results:
 8.[Rotation of 5 teams for 4 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_4.csv)
 
 
-Personal favourite defenders to rotate from in GW 1-10
+## Personal favourite defenders to rotate from in GW 1-10
 
 | 4 Teams, 3 Starting | 4 Teams, 2 Starting | 5 Teams, 4 Starting | 5 Teams, 3 Starting |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
@@ -51,8 +51,9 @@ Personal favourite defenders to rotate from in GW 1-10
 | CHE,LEE,SHU,WOL     | BHA,LEI,MUN,SOU     | LEE,LEI,LIV,MUN,WOL | CRY,FUL,LIV,MUN,SOU |
 | BHA,NEW,SHU,SOU     | BUR,LEE,LEI,SOU     | BHA,CHE,LEE,LEI,LIV | ARS,CHE,FUL,LEE,LEI |
 
+*My current draft is based on this combination.
 
-Personal favourite defenders to rotate from in GW 1-15
+## Personal favourite defenders to rotate from in GW 1-15
 
 | 4 Teams, 3 Starting | 4 Teams, 2 Starting | 5 Teams, 4 Starting | 5 Teams, 3 Starting |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
