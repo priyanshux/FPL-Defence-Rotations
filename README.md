@@ -32,7 +32,7 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 
 1. Don't rely just on 'my favourite' options given below in the tables, I would recommend you to go through all the possible options in the final result for each case.
 
-2. Pick one defender you HAVE TO get, in most cases (including mine), it's TAA.
+2. Pick one/two defenders you HAVE TO get, in most cases (including mine), it's just one - TAA.
 
 3. For the remaining cases, think of another solid option you feel would be perfect to have in the team. Even though not as crucial as TAA, it was Vinagre in my case.
 
