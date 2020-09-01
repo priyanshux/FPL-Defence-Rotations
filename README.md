@@ -2,16 +2,21 @@
 
 ## Created for Fantasy Premier League 2020-21
 
-### Best options to rotate for GW1-10 and GW1-15:
+### All possible options to rotate for GW1-10 and GW1-15:
 
-1. Rotate 4 players, start 3 of them and keep 1 on the bench.
+1. Rotate 5 players, start 4 of them and keep 1 on the bench.
 
-2. Rotate 4 players, start 2 of them and keep 2 on the bench.
+2. Rotate 5 players, start 3 of them and keep 2 on the bench.
 
-3. Rotate 5 players, start 4 of them and keep 1 on the bench.
+3. Rotate 4 players, start 3 of them and keep 1 on the bench.
 
-4. Rotate 5 players, start 3 of them and keep 2 on the bench.
+4. Rotate 4 players, start 2 of them and keep 2 on the bench.
 
+5. Rotate 3 players, start 2 of them and keep 1 on the bench.
+
+6. Rotate 3 players, start 1 of them and keep 2 on the bench.
+
+7. Rotate 2 players, start 1 of them and keep 1 on the bench.
 
 
 #### Personal Fixture Difficulty Rating Used
@@ -34,25 +39,6 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 4. Now search for options including the word 'WOL'.
 
 5. Don't stick to choices in the first 10 rows. In my opinion, a good combination would be having an 'Average per team' less than or around 2.1-2.2 and a Standard Deviation less than 0.9
-
-
-### Results for all the 8 cases
-
-1.[Rotation of 4 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_2.csv)
-
-2.[Rotation of 4 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_3.csv)
-
-3.[Rotation of 5 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_3.csv)
-
-4.[Rotation of 5 teams for 4 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_4.csv)
-
-5.[Rotation of 4 teams for 2 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_2.csv)
-
-6.[Rotation of 4 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_3.csv)
-
-7.[Rotation of 5 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_3.csv)
-
-8.[Rotation of 5 teams for 4 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_4.csv)
 
 
 ### My favourite options to rotate defenders in GW 1-10
@@ -91,6 +77,66 @@ _*My current draft is based on this combination._
 | CRY,LEE,NEW,WOL     | CHE,LEE,LEI,LIV     | ARS,BUR,CRY,FUL,NEW | CHE,LEE,LIV,MUN,WBA |
 | BHA,LEI,SHU,SOU     | CRY,MCI,MUN,SOU     | CHE,FUL,LEI,LIV,MUN | ARS,CRY,MCI,MUN,TOT |
 
+### Some more options to rotate defenders in GW 1-10
+
+
+|3 Teams, 2 Starting|3 Teams, 1 Starting|2 Teams, 1 Starting|
+|:-----------------:|:-----------------:|:-----------------:|
+|MUN,SOU,WBA|CRY,EVE,LEI|CRY,EVE|
+|CHE,FUL,LEI|AVL,SOU,WBA|CRY,NEW|
+|CRY,MUN,SOU|AVL,LEI,SOU|SHU,SOU|
+|BHA,CHE,LEI|BHA,EVE,SOU|LEE,WOL|
+|AVL,SHU,SOU|EVE,WHU,WOL|FUL,LEI|
+|CHE,LEE,WBA|BHA,EVE,WHU|LEE,LEI|
+|BUR,FUL,LEI|ARS,FUL,SHU|BUR,LEI|
+|ARS,AVL,WBA|ARS,FUL,NEW|CRY,WBA|
+|CRY,EVE,SOU|EVE,SOU,WBA|BUR,WBA|
+
+### Some more options to rotate defenders in GW 1-15
+
+|3 Teams, 2 Starting|3 Teams, 1 Starting|2 Teams, 1 Starting|
+|:-----------------:|:-----------------:|:-----------------:|
+|AVL,CHE,LEI|ARS,AVL,LEI|CRY,NEW|
+|CRY,MUN,WOL|AVL,CRY,SOU|AVL,LEI|
+|EVE,WBA,WHU|AVL,CHE,LEI|MUN,SOU|
+|BUR,FUL,LEI|BHA,EVE,SOU|BUR,WBA|
+|CHE,FUL,LEI|BHA,CRY,SOU|FUL,LEI|
+|CRY,MUN,SOU|AVL,BUR,LEI|FUL,SOU|
+|FUL,SHU,SOU|CRY,FUL,SOU|SHU,SOU|
+|CRY,EVE,NEW|BHA,SHU,SOU|BHA,SOU|
+|AVL,SHU,SOU|BHA,EVE,LEI|CRY,LEI|
+|ARS,AVL,WBA|MUN,SOU,WBA|ARS,CRY|
+|BUR,NEW,SOU|FUL,SHU,SOU|BUR,LEI|
+
+### Results for all the possible cases
+
+1. [Rotation of 4 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_2.csv)
+
+2. [Rotation of 4 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_3.csv)
+
+3. [Rotation of 5 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_3.csv)
+
+4. [Rotation of 5 teams for 4 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_4.csv)
+
+5. [Rotation of 4 teams for 2 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_2.csv)
+
+6. [Rotation of 4 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_3.csv)
+
+7. [Rotation of 5 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_3.csv)
+
+8. [Rotation of 5 teams for 4 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_4.csv)
+
+9. [Rotation of 3 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_3_2.csv)
+
+10. [Rotation of 3 teams for 1 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_3_1.csv)
+
+11. [Rotation of 2 teams for 1 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_2_1.csv)
+
+12. [Rotation of 3 teams for 2 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_3_2.csv)
+
+13. [Rotation of 3 teams for 1 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_3_1.csv)
+
+14. [Rotation of 2 teams for 1 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_2_1.csv)
 
 #### Footer
 
