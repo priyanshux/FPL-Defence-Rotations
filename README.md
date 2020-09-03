@@ -69,8 +69,8 @@ Please note that this FDR Concept is specifically for defenders, so don't confus
 
 Category A: -0.2 against category 1, 2, 3, 4 &nbsp; AND &nbsp;&nbsp; -0.1 against category 5 <br>
 Category B: -0.2 against category 1, 2, 3 <br>
-Category C: -0.1 against category 1, 2, 3 &nbsp;&nbsp;&nbsp; AND &nbsp;&nbsp; +0.1 against category 6 <br>
-Category D: +0.1 against category 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND &nbsp;&nbsp; +0.2 against category 6 <br>
+Category C: -0.1 against category 1, 2, 3 &nbsp;&nbsp;&nbsp;&nbsp; AND &nbsp;&nbsp; +0.1 against category 6 <br>
+Category D: +0.1 against category 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AND &nbsp;&nbsp; +0.2 against category 6 <br>
 
 |Category A    |Category B    |Category C    |Category D    |
 |:------------:|:------------:|:------------:|:------------:|
