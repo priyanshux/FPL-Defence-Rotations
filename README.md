@@ -2,6 +2,8 @@
 
 ## Created for Fantasy Premier League 2020-21
 
+[Here](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing) is the worksheet of all the compiled final results. The same results in CSV format can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/).
+
 ## Table of Contents
 
 1. [Best Way To Use This Repo](https://github.com/priyanshux/FPL-Defence-Rotations#best-way-to-use-this-repo)
@@ -109,7 +111,7 @@ Absolutely, I plan on doing this twice more before the season ends along with an
 
 ## Final Results
 
-[Here](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing) is the worksheet of all the compiled result. The same results in CSV format can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/).
+[Here](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing) is the worksheet of all the compiled final results. The same results in CSV format can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/).
 
 ### Results for all the possible cases
 
