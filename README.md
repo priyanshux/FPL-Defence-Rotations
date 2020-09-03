@@ -28,7 +28,8 @@
 
 5. Don't stick to choices in the first 20 rows. A good combination would be having an 'Average per team' less than or around 2.1-2.2 and a Standard Deviation less than 1.
 
-[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)
+<sup>[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)</sup>
+
 
 ## Rotation Options Available:
 
@@ -47,7 +48,8 @@
 7. Rotate 2 players, start 1 of them and keep 1 on the bench.
 
 
-[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)
+<sup>[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)</sup>
+
 
 ## Fixture Difficulty Ratings Concept For Defenders
 
@@ -89,7 +91,8 @@ Please note that this FDR Concept is specifically for defenders, so don't confus
 
 #### The final ratings till Gameweek 38 can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FPL_Defence_FDR.csv "Difficulty Ratings for Defenders").
 
-<sup>[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)</sup>
+<sup><sup>[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)</sup>
+</sup>
 
 ### Frequently Asked Questions (FAQs)
 
@@ -111,7 +114,8 @@ There are a total of 14 sheets attached inside the worksheet, which you should b
 #### 6. Will you be creating such combinations during mid-season as well? If yes, will you update the ratings based on their then form?
 Absolutely, I plan on doing this twice more before the season ends along with an updated difficulty ratings sheet.
 
-[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)
+<sup>[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)</sup>
+
 
 ## Final Results
 
@@ -149,7 +153,8 @@ Absolutely, I plan on doing this twice more before the season ends along with an
 
 14. [Rotation of 2 teams for 1 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_2_1.csv)
 
-[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)
+<sup>[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)</sup>
+
 
 ## Some Good Options
 
@@ -182,7 +187,8 @@ Absolutely, I plan on doing this twice more before the season ends along with an
 |CHE,LEE,LEI,LIV,MUN|BUR,CHE,FUL,LEI,LIV|CRY,MUN,NEW,WOL    |CRY,MUN,WHU,WOL    |AVL,SHU,SOU        |BHA,EVE,LEI        |CRY,LEI            |
 
 
-[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)
+<sup>[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)</sup>
+
 
 #### Footer
 
