@@ -2,7 +2,31 @@
 
 ## Created for Fantasy Premier League 2020-21
 
-### All possible options to rotate for GW1-10 and GW1-15:
+### 1. [Best Way To Use This Repo]
+
+### 2. [Rotation Options Available]
+
+### 3. [Fixture Difficulty Ratings and FAQ]
+
+### 4. [Final Results]
+
+### 5. [Some Good Options]
+
+### Best Way To Use This Repo
+
+1. Don't rely just on 'some' good options given below in the tables, I would recommend you to go through all the possible options in the final result for each case.
+
+2. Pick one/two defenders you HAVE TO get, in most cases (including mine), it's just one - TAA.
+
+3. For the remaining cases, think of another solid option you feel would be perfect to have in the team. Even though not as crucial as TAA, it was Vinagre in my case.
+
+4. Now search for options including the word 'WOL'.
+
+5. Don't stick to choices in the first 20 rows. In my opinion, a good combination would be having an 'Average per team' less than or around 2.1-2.2 and a Standard Deviation less than 1.
+
+<div style="text-align: right"> [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations) </div>
+
+### Rotation Options Available:
 
 1. Rotate 5 players, start 4 of them and keep 1 on the bench.
 
@@ -19,27 +43,100 @@
 7. Rotate 2 players, start 1 of them and keep 1 on the bench.
 
 
-#### Personal Fixture Difficulty Rating Used
+<div style="text-align: right"> [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations) </div>
 
-Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FDR_Concept "FDR Concept for Defenders") specifically for defenders, so don't confuse or assume it to be an overall FDR. Difficulty against teams like SHU is considered to be pretty low since they don't score many goals (they scored 5th least number of goals last season, less than BOU who got relegated), so please keep this in mind. The final ratings till Gameweek 38 can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FPL_Defence_FDR.csv "Difficulty Ratings for Defenders").
+#### Fixture Difficulty Ratings Concept For Defenders
 
-### The Final Result
+Please note that this FDR Concept is specifically for defenders, so don't confuse or assume it to be an overall FDR. Difficulty against teams like SHU is considered to be pretty low since they don't score many goals (they scored 5th least number of goals last season, less than BOU who got relegated).
+
+##### Initial FDR "Against" Using Attack Record (Ascending)
+
+(Eg, Playing against FUL away from your home has 1.5 FDR. i.e Fulham plays on their home)
+
+|Category 1    |Category 2    |Category 3    |Category 4    |Category 5    |Category 6    |Category 7    |
+|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
+|H - 1, A - 1.5|H - 1.5, A - 2|H - 2, A - 2.5|H - 2.5, A - 3|H - 3, A - 3.5|H - 3.5, A - 4|H - 4.5, A - 5|
+|FUL           |LEE           |BUR           |WHU           |WOL           |CHE           |LIV           |
+|CRY           |NEW           |EVE           |SOU           |ARS           |MUN           |MCI           |
+|WBA           |SHU           |-             |-             |TOT           |-             |-             |
+|-             |BHA           |-             |-             |LEI           |-             |-             |
+|-             |AVL           |-             |-             |-             |-             |-             |
+
+
+##### Post Initial FDR "For" Using Defence Record (Descending)
+
+CATEGORY A: -0.2 AGAINST CATEGORY 1,2,3,4 & -0.1 AGAINST CATEGORY 5
+CATEGORY B: -0.2 AGAINST CATEGORY 1,2,3
+CATEGORY C: -0.1 AGAINST CATEGORY 1,2,3 & +0.1 AGAINST CATEGORY 6
+CATEGORY D: +0.1 AGAINST CATEGORY 5 & +0.2 AGAINST CATEGORY 6
+
+|Category A    |Category B    |Category C    |Category D    |
+|:------------:|:------------:|:------------:|:------------:|
+|LIV           |MUN           |ARS           |EVE           |
+|MCI           |SHU           |TOT           |NEW           |
+|-             |WOL           |BUR           |WHU           |
+|-             |LEI           |BHA           |AVL           |
+|-             |LEE           |SOU           |WBA           |
+|-             |CHE           |CRY           |FUL           |
+
+The final ratings till Gameweek 38 can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FPL_Defence_FDR.csv "Difficulty Ratings for Defenders").
+
+<div style="text-align: right"> [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations) </div>
+
+#### Frequently Asked Questions (FAQs)
+
+##### 1. What do these numbers on ratings display?
+The difficulty level to get a clean sheet in the specific match. It doesn't necessarily mean to tell you a lot about the overall defence of a team. The chances of these ratings increasing drastically would be much higher in the case of conceding 1 goal from no goals (costs you 4 points), when compared to the case of conceding 5 goals from 1 goals (costs you 2 points).
+
+##### 2. Does it mean it doesn't consider the attacking returns?
+Honestly, no. Since attacking returns can be very player specific (For eg; Joe Gomez won't get as many returns as TAA) and even though Liverpool defenders have a greater probability of gaining moer points than Fulham's, it is tough to allot them into numbers. More so since you rarely rotate defenders using their attacking returns.
+
+##### 3. How do you justify Fulham's difficulty level against Chelsea at home (3.7) with Liverpool's difficulty level against Chelsea away (4.0)? Won't it be much more difficult for Fulham?
+If you go through the code of this repo, you'll find what this model does is sort the ratings of the combination in ascending order before discarding the higher ratings. And hence, I have focused more on the ratings < 3.5 since any rating higher than 3.5 would irrespective of the team be shifted to the bench and let the teams with lower ratings play in the starting 11. As long as you stick to the ratings in the upper half on the results (which I strongly recommend), you wouldn't see any 3.5+ being considered in most cases.
+
+##### 5. The Google Sheets attached is confusing me, how am I supposed to read it?
+There are a total of 14 sheets attached inside the worksheet, which you should be able to navigate through from the bottom left icon in Google Sheets. The names are assigned in the format of GWxx_y_z where xx denotes until which GW, y denotes the number of players you wish to rotate and z denotes the number of players in your starting 11. For eg; GW15_4_3 denotes the list of GW1-15 for rotating 4 players where 3 of them start in the playing 11.
+
+##### 4. Will you be creating such combinations during mid-season as well? If yes, will you update the ratings based on their then form?
+Absolutely, I plan on doing this twice more before the season ends along with an updated difficulty ratings sheet.
+
+<div style="text-align: right"> [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations) </div>
+
+### Final Results
 
 [Here](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing) is the worksheet of all the compiled result. The same results in CSV format can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/).
 
+#### Results for all the possible cases
 
-### The best way to use this repo would be:
+1. [Rotation of 4 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_2.csv)
 
-1. Don't rely just on 'some' good options given below in the tables, I would recommend you to go through all the possible options in the final result for each case.
+2. [Rotation of 4 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_3.csv)
 
-2. Pick one/two defenders you HAVE TO get, in most cases (including mine), it's just one - TAA.
+3. [Rotation of 5 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_3.csv)
 
-3. For the remaining cases, think of another solid option you feel would be perfect to have in the team. Even though not as crucial as TAA, it was Vinagre in my case.
+4. [Rotation of 5 teams for 4 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_4.csv)
 
-4. Now search for options including the word 'WOL'.
+5. [Rotation of 4 teams for 2 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_2.csv)
 
-5. Don't stick to choices in the first 10 rows. In my opinion, a good combination would be having an 'Average per team' less than or around 2.1-2.2 and a Standard Deviation less than 0.9
+6. [Rotation of 4 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_3.csv)
 
+7. [Rotation of 5 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_3.csv)
+
+8. [Rotation of 5 teams for 4 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_4.csv)
+
+9. [Rotation of 3 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_3_2.csv)
+
+10. [Rotation of 3 teams for 1 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_3_1.csv)
+
+11. [Rotation of 2 teams for 1 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_2_1.csv)
+
+12. [Rotation of 3 teams for 2 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_3_2.csv)
+
+13. [Rotation of 3 teams for 1 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_3_1.csv)
+
+14. [Rotation of 2 teams for 1 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_2_1.csv)
+
+<div style="text-align: right"> [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations) </div>
 
 ### Some good options to rotate defenders in GW 1-10
 
@@ -108,35 +205,7 @@ _*My current draft is based on this combination._
 |ARS,AVL,WBA|MUN,SOU,WBA|ARS,CRY|
 |BUR,NEW,SOU|FUL,SHU,SOU|BUR,LEI|
 
-### Results for all the possible cases
-
-1. [Rotation of 4 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_2.csv)
-
-2. [Rotation of 4 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_3.csv)
-
-3. [Rotation of 5 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_3.csv)
-
-4. [Rotation of 5 teams for 4 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_4.csv)
-
-5. [Rotation of 4 teams for 2 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_2.csv)
-
-6. [Rotation of 4 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_3.csv)
-
-7. [Rotation of 5 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_3.csv)
-
-8. [Rotation of 5 teams for 4 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_4.csv)
-
-9. [Rotation of 3 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_3_2.csv)
-
-10. [Rotation of 3 teams for 1 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_3_1.csv)
-
-11. [Rotation of 2 teams for 1 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_2_1.csv)
-
-12. [Rotation of 3 teams for 2 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_3_2.csv)
-
-13. [Rotation of 3 teams for 1 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_3_1.csv)
-
-14. [Rotation of 2 teams for 1 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_2_1.csv)
+<div style="text-align: right"> [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations) </div>
 
 #### Footer
 
