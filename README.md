@@ -91,15 +91,18 @@ The final ratings till Gameweek 38 can be found [here](https://github.com/priyan
 The difficulty level to get a clean sheet in the specific match. It doesn't necessarily mean to tell you a lot about the overall defence of a team. The chances of these ratings increasing drastically would be much higher in the case of conceding 1 goal from no goals (costs you 4 points), when compared to the case of conceding 5 goals from 1 goals (costs you 2 points).
 
 #### 2. Does it mean it doesn't consider the attacking returns?
-Honestly, no. Since attacking returns can be very player specific (For eg; Joe Gomez won't get as many returns as TAA) and even though Liverpool defenders have a greater probability of gaining moer points than Fulham's, it is tough to allot them into numbers. More so since you rarely rotate defenders using their attacking returns.
+Honestly, no. Since attacking returns can be very player specific (For eg; Joe Gomez won't get as many returns as TAA) and even though Liverpool defenders have a greater probability of gaining more points than Fulham's, it is tough to allot them into numbers. More so since you rarely rotate defenders using their attacking returns.
 
-#### 3. How do you justify Fulham's difficulty level against Chelsea at home (3.7) with Liverpool's difficulty level against Chelsea away (4.0)? Won't it be much more difficult for Fulham?
+#### 3. For Category C and D, why haven't you considered an increment for Category 7?
+Notice the difference in each case from Category 1 to 6, there's a 0.5 change for their Home/Away fixtures respectively. But in the case of Category 6 to 7, the difference is 1. And anyhow it wouldn't matter much since you'd always like to keep a defender on the bench when playing against LIV or MCI.
+
+#### 4. How do you justify Fulham's difficulty level against Chelsea at home (3.7) with Liverpool's difficulty level against Chelsea away (4.0)? Won't it be much more difficult for Fulham?
 The last part of Answer 1 answers this as well. Adding to that, if you go through the code of this repo, you'll find what this model does is sort the ratings of the combination in ascending order before discarding the higher ratings. And hence, I have focused more on the ratings < 3.5 since any rating higher than 3.5 would irrespective of the team be shifted to the bench and let the teams with lower ratings play in the starting 11. As long as you stick to the ratings in the upper half on the results (which I strongly recommend), you wouldn't see any 3.5+ being considered in most cases.
 
-#### 4. The Google Sheets attached is confusing me, how am I supposed to read it?
+#### 5. The Google Sheets attached is confusing me, how am I supposed to read it?
 There are a total of 14 sheets attached inside the worksheet, which you should be able to navigate through from the bottom left icon in [Google Sheets](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing). The names are assigned in the format of GWxx_y_z where xx denotes until which GW, y denotes the number of players you wish to rotate and z denotes the number of players in your starting 11. For eg; GW15_4_3 denotes the list of GW1-15 for rotating 4 players where 3 of them start in the playing 11.
 
-#### 5. Will you be creating such combinations during mid-season as well? If yes, will you update the ratings based on their then form?
+#### 6. Will you be creating such combinations during mid-season as well? If yes, will you update the ratings based on their then form?
 Absolutely, I plan on doing this twice more before the season ends along with an updated difficulty ratings sheet.
 
 [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)
