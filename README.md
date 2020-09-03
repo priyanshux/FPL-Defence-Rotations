@@ -91,8 +91,7 @@ Please note that this FDR Concept is specifically for defenders, so don't confus
 
 #### The final ratings till Gameweek 38 can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FPL_Defence_FDR.csv "Difficulty Ratings for Defenders").
 
-<sup><sup>[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)</sup>
-</sup>
+<sup>[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)</sup>
 
 ### Frequently Asked Questions (FAQs)
 
