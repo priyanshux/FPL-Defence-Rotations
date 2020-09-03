@@ -83,8 +83,8 @@ Please note that this FDR Concept is specifically for defenders, so don't confus
 |--------------|--------------|--------------|
 |Category A    |-0.2 against category 1, 2, 3, 4|-0.1 against category 5|
 |Category B    |-0.2 against category 1, 2, 3	|-      		        |
-|Category C    |-0.1 against category 1, 2, 3	|0.1 against category 6 |
-|Category D    |0.1 against category 5			|0.2 against category 6 |
+|Category C    |-0.1 against category 1, 2, 3	|+0.1 against category 6|
+|Category D    |+0.1 against category 5			|+0.2 against category 6|
 
 #### The final ratings till Gameweek 38 can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FPL_Defence_FDR.csv "Difficulty Ratings for Defenders").
 
