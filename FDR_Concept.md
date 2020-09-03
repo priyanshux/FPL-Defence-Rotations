@@ -1,4 +1,4 @@
-### Fixture Difficulty Ratings Concept For Defenders
+### Fixture Difficulty Ratings Concept For Defenders (Below FAQs)
 
 #### Please note that this FDR Concept is specifically for defenders, so don't confuse or assume it to be an overall FDR. Difficulty against teams like SHU is considered to be pretty low since they don't score many goals (they scored 5th least number of goals last season, less than BOU who got relegated).
 
