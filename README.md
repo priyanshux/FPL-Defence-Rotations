@@ -51,9 +51,9 @@
 
 Please note that this FDR Concept is specifically for defenders, so don't confuse or assume it to be an overall FDR. Difficulty against teams like SHU is considered to be pretty low since they don't score many goals (they scored 5th least number of goals last season, less than BOU who got relegated).
 
-### Initial FDR "Against" Using Attack Record (Ascending)
+### Initial FDR 'Against' Using Attack Record (Ascending)
 
-(Eg, Playing against FUL away from your home has 1.5 FDR. i.e Fulham plays on their home)
+(Eg; Playing against FUL away from your home has 1.5 FDR. i.e Fulham plays on their home)
 
 |Category 1    |Category 2    |Category 3    |Category 4    |Category 5    |Category 6    |Category 7    |
 |:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
@@ -65,12 +65,12 @@ Please note that this FDR Concept is specifically for defenders, so don't confus
 |-             |AVL           |-             |-             |-             |-             |-             |
 
 
-### Post Initial FDR "For" Using Defence Record (Descending)
+### Post Initial FDR 'For' Using Defence Record (Descending)
 
-CATEGORY A: -0.2 AGAINST CATEGORY 1,2,3,4 & -0.1 AGAINST CATEGORY 5
-CATEGORY B: -0.2 AGAINST CATEGORY 1,2,3
-CATEGORY C: -0.1 AGAINST CATEGORY 1,2,3 & +0.1 AGAINST CATEGORY 6
-CATEGORY D: +0.1 AGAINST CATEGORY 5 & +0.2 AGAINST CATEGORY 6
+CATEGORY A: -0.2 AGAINST CATEGORY 1,2,3,4 & -0.1 AGAINST CATEGORY 5 <br>
+CATEGORY B: -0.2 AGAINST CATEGORY 1,2,3 <br>
+CATEGORY C: -0.1 AGAINST CATEGORY 1,2,3 & +0.1 AGAINST CATEGORY 6 <br>
+CATEGORY D: +0.1 AGAINST CATEGORY 5 & +0.2 AGAINST CATEGORY 6 <br>
 
 |Category A    |Category B    |Category C    |Category D    |
 |:------------:|:------------:|:------------:|:------------:|
