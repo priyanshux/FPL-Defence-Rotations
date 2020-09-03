@@ -67,10 +67,10 @@ Please note that this FDR Concept is specifically for defenders, so don't confus
 
 ### Post Initial FDR 'For' Using Defence Record (Descending)
 
-Category A: -0.2 against Category 1,2,3,4 & -0.1 against Category 5 <br>
-Category B: -0.2 against Category 1,2,3 <br>
-Category C: -0.1 against Category 1,2,3 & +0.1 against Category 6 <br>
-Category D: +0.1 against Category 5 & +0.2 against Category 6 <br>
+Category A: -0.2 against category 1, 2, 3, 4 and -0.1 against category 5 <br>
+Category B: -0.2 against category 1, 2, 3 <br>
+Category C: -0.1 against category 1, 2, 3 and +0.1 against category 6 <br>
+Category D: +0.1 against category 5 & +0.2 against category 6 <br>
 
 |Category A    |Category B    |Category C    |Category D    |
 |:------------:|:------------:|:------------:|:------------:|
