@@ -83,6 +83,13 @@ Category D: &nbsp;&nbsp; +0.1 against category 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 |-             |LEE           |SOU           |WBA           |
 |-             |CHE           |CRY           |FUL           |
 
+
+|<span style="font-weight:normal">Category A</span>|<span style="font-weight:normal">-0.2 against category 1, 2, 3, 4</span>|<span style="font-weight:normal">-0.1 against category 5</span>|
+|--------------|--------------------------------|-----------------------|
+|Category B    |-0.2 against category 1, 2, 3   |-                      |
+|Category C    |-0.1 against category 1, 2, 3   |+0.1 against category 6|
+|Category D    |+0.1 against category 5         |+0.2 against category 6|
+
 #### The final ratings till Gameweek 38 can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FPL_Defence_FDR.csv "Difficulty Ratings for Defenders").
 
 [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)
