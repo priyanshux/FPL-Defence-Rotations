@@ -12,7 +12,7 @@
 
 4. [Final Results](https://github.com/priyanshux/FPL-Defence-Rotations#final-results)
 
-5. [Some Good Options](https://github.com/priyanshux/FPL-Defence-Rotations#some-good-options-to-rotate-defenders-in-gw-1-10)
+5. [Some Good Options](https://github.com/priyanshux/FPL-Defence-Rotations#some-good-options)
 
 ## Best Way To Use This Repo
 
@@ -140,72 +140,36 @@ Absolutely, I plan on doing this twice more before the season ends along with an
 
 [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)
 
-### Some good options to rotate defenders in GW 1-10
+## Some Good Options
 
-| 4 Teams, 3 Starting | 4 Teams, 2 Starting | 5 Teams, 4 Starting | 5 Teams, 3 Starting |
-| :-----------------: | :-----------------: | :-----------------: | :-----------------: |
-| CRY,MUN,NEW,WOL     | ARS,CRY,EVE,WOL     | CHE,FUL,LEE,LEI,LIV | BHA,CHE,EVE,LEI,TOT |
-| CRY,LEI,MUN,SOU     | BHA,CHE,LEI,TOT     | CRY,LIV,MUN,NEW,SOU | CRY,MUN,SHU,SOU,WOL |
-| ARS,LEE,SHU,WOL     | CRY,MCI,MUN,SOU     | CHE,FUL,LIV,MUN,NEW | CRY,EVE,LIV,MUN,TOT |
-| ARS,MCI,SHU,TOT     | CRY,LEI,MUN,WOL     | BUR,CRY,EVE,LEI,SOU | AVL,BUR,LEI,LIV,TOT |
-| BHA,CHE,EVE,LEI     | BHA,CHE,LEE,LEI     | CRY,MUN,NEW,SOU,WOL | AVL,BHA,CHE,LEI,MCI |
-| BHA,EVE,LEI,SOU     | BUR,LEE,LEI,WOL     | FUL,LEI,LIV,MUN,SOU | CHE,CRY,MUN,SOU,WBA |
-| LEE,SHU,SOU,WOL*    | LEI,MUN,TOT,WOL     | CRY,EVE,LIV,MUN,SOU | ARS,BHA,EVE,LEI,TOT |
-| BHA,CHE,LEE,LEI     | BHA,EVE,LEI,SOU     | ARS,CRY,MUN,NEW,WOL | LIV,MUN,SHU,SOU,TOT |
-| BUR,EVE,LEI,SOU     | LEE,LEI,MUN,WOL     | CHE,LIV,MUN,TOT,WBA | CRY,EVE,LIV,MUN,SOU |
-| ARS,SHU,TOT,WOL     | ARS,BHA,EVE,TOT     | BUR,EVE,LEI,LIV,TOT | CHE,FUL,LEI,LIV,MUN |
-| CHE,LEE,SHU,WOL     | BHA,LEI,MUN,SOU     | LEE,LEI,LIV,MUN,WOL | CRY,FUL,LIV,MUN,SOU |
-| BHA,NEW,SHU,SOU     | BUR,LEE,LEI,SOU     | BHA,CHE,LEE,LEI,LIV | ARS,CHE,FUL,LEE,LEI |
+### Rotate defenders in GW 1-10
 
-_*My current draft is based on this combination._
+|5 Teams, 4 Starting|5 Teams, 3 Starting|4 Teams, 3 Starting|4 Teams, 2 Starting|3 Teams, 2 Starting|3 Teams, 1 Starting|2 Teams, 1 Starting|
+|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
+|CHE,FUL,LEE,LEI,LIV|BHA,CHE,EVE,LEI,TOT|CRY,MUN,NEW,WOL    |ARS,CRY,EVE,WOL    |MUN,SOU,WBA        |CRY,EVE,LEI        |CRY,EVE            |
+|CRY,LIV,MUN,NEW,SOU|CRY,MUN,SHU,SOU,WOL|CRY,LEI,MUN,SOU    |BHA,CHE,LEI,TOT    |CHE,FUL,LEI        |AVL,SOU,WBA        |CRY,NEW            |
+|CHE,FUL,LIV,MUN,NEW|CRY,EVE,LIV,MUN,TOT|ARS,LEE,SHU,WOL    |CRY,MCI,MUN,SOU    |CRY,MUN,SOU        |AVL,LEI,SOU        |SHU,SOU            |
+|BUR,CRY,EVE,LEI,SOU|AVL,BUR,LEI,LIV,TOT|ARS,MCI,SHU,TOT    |CRY,LEI,MUN,WOL    |BHA,CHE,LEI        |BHA,EVE,SOU        |LEE,WOL            |
+|CRY,MUN,NEW,SOU,WOL|AVL,BHA,CHE,LEI,MCI|BHA,CHE,EVE,LEI    |BHA,CHE,LEE,LEI    |AVL,SHU,SOU        |EVE,WHU,WOL        |FUL,LEI            |
+|FUL,LEI,LIV,MUN,SOU|CHE,CRY,MUN,SOU,WBA|BHA,EVE,LEI,SOU    |BUR,LEE,LEI,WOL    |CHE,LEE,WBA        |BHA,EVE,WHU        |LEE,LEI            |
+|CRY,EVE,LIV,MUN,SOU|ARS,BHA,EVE,LEI,TOT|LEE,SHU,SOU,WOL*   |LEI,MUN,TOT,WOL    |BUR,FUL,LEI        |ARS,FUL,SHU        |BUR,LEI            |
+|ARS,CRY,MUN,NEW,WOL|LIV,MUN,SHU,SOU,TOT|BHA,CHE,LEE,LEI    |BHA,EVE,LEI,SOU    |ARS,AVL,WBA        |ARS,FUL,NEW        |CRY,WBA            |
+|CHE,LIV,MUN,TOT,WBA|CRY,EVE,LIV,MUN,SOU|BUR,EVE,LEI,SOU    |LEE,LEI,MUN,WOL    |CRY,EVE,SOU        |EVE,SOU,WBA        |BUR,WBA            |
 
-### Some good options to rotate defenders in GW 1-15
+### Rotate defenders in GW 1-15
 
-| 4 Teams, 3 Starting | 4 Teams, 2 Starting | 5 Teams, 4 Starting | 5 Teams, 3 Starting |
-| :-----------------: | :-----------------: | :-----------------: | :-----------------: |
-| ARS,MCI,SHU,TOT     | AVL,LEI,MUN,SOU     | ARS,LIV,MCI,MUN,TOT | AVL,BHA,CHE,LEI,SOU |
-| CRY,MUN,NEW,SOU     | ARS,CRY,FUL,NEW     | AVL,LEI,LIV,MUN,SOU | CHE,FUL,LEE,LEI,LIV |
-| CHE,FUL,LEI,LIV     | CRY,MUN,NEW,SOU     | CHE,FUL,LEE,LEI,LIV | CRY,FUL,LEI,MUN,SOU |
-| BHA,EVE,LEI,SOU     | CHE,FUL,LEI,LIV     | AVL,CHE,LEE,LEI,LIV | BHA,CHE,EVE,LEI,LIV |
-| CHE,LEE,LEI,LIV     | ARS,AVL,LEI,TOT     | BUR,FUL,NEW,SHU,SOU | CHE,FUL,LEE,LIV,WBA |
-| LIV,MCI,MUN,TOT     | LEI,LIV,MUN,SOU     | BHA,CHE,LEE,LEI,LIV | ARS,BHA,MCI,SHU,TOT |
-| CHE,CRY,FUL,NEW     | CHE,FUL,LEE,LEI     | CRY,LIV,MUN,NEW,SOU | AVL,BHA,CHE,LEI,LIV |
-| ARS,FUL,SHU,SOU     | BHA,LEI,MUN,SOU     | ARS,BHA,MCI,SHU,TOT | MCI,MUN,SHU,SOU,TOT |
-| CRY,MUN,NEW,WOL     | CRY,MUN,WHU,WOL     | CHE,LEE,LEI,LIV,MUN | BUR,CHE,FUL,LEI,LIV |
-| AVL,BUR,LEI,SOU     | AVL,BUR,CHE,LEI     | BUR,LEI,LIV,MUN,TOT | ARS,AVL,LEI,LIV,TOT |
-| CRY,LEE,NEW,WOL     | CHE,LEE,LEI,LIV     | ARS,BUR,CRY,FUL,NEW | CHE,LEE,LIV,MUN,WBA |
-| BHA,LEI,SHU,SOU     | CRY,MCI,MUN,SOU     | CHE,FUL,LEI,LIV,MUN | ARS,CRY,MCI,MUN,TOT |
+|5 Teams, 4 Starting|5 Teams, 3 Starting|4 Teams, 3 Starting|4 Teams, 2 Starting|3 Teams, 2 Starting|3 Teams, 1 Starting|2 Teams, 1 Starting|
+|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
+|ARS,LIV,MCI,MUN,TOT|AVL,BHA,CHE,LEI,SOU|ARS,MCI,SHU,TOT    |AVL,LEI,MUN,SOU    |AVL,CHE,LEI        |ARS,AVL,LEI        |CRY,NEW            |
+|AVL,LEI,LIV,MUN,SOU|CHE,FUL,LEE,LEI,LIV|CRY,MUN,NEW,SOU    |ARS,CRY,FUL,NEW    |CRY,MUN,WOL        |AVL,CRY,SOU        |AVL,LEI            |
+|CHE,FUL,LEE,LEI,LIV|CRY,FUL,LEI,MUN,SOU|CHE,FUL,LEI,LIV    |CRY,MUN,NEW,SOU    |EVE,WBA,WHU        |AVL,CHE,LEI        |MUN,SOU            |
+|AVL,CHE,LEE,LEI,LIV|BHA,CHE,EVE,LEI,LIV|BHA,EVE,LEI,SOU    |CHE,FUL,LEI,LIV    |BUR,FUL,LEI        |BHA,EVE,SOU        |BUR,WBA            |
+|BUR,FUL,NEW,SHU,SOU|CHE,FUL,LEE,LIV,WBA|CHE,LEE,LEI,LIV    |ARS,AVL,LEI,TOT    |CHE,FUL,LEI        |BHA,CRY,SOU        |FUL,LEI            |
+|BHA,CHE,LEE,LEI,LIV|ARS,BHA,MCI,SHU,TOT|LIV,MCI,MUN,TOT    |LEI,LIV,MUN,SOU    |CRY,MUN,SOU        |AVL,BUR,LEI        |FUL,SOU            |
+|CRY,LIV,MUN,NEW,SOU|AVL,BHA,CHE,LEI,LIV|CHE,CRY,FUL,NEW    |CHE,FUL,LEE,LEI    |FUL,SHU,SOU        |CRY,FUL,SOU        |SHU,SOU            |
+|ARS,BHA,MCI,SHU,TOT|MCI,MUN,SHU,SOU,TOT|ARS,FUL,SHU,SOU    |BHA,LEI,MUN,SOU    |CRY,EVE,NEW        |BHA,SHU,SOU        |BHA,SOU            |
+|CHE,LEE,LEI,LIV,MUN|BUR,CHE,FUL,LEI,LIV|CRY,MUN,NEW,WOL    |CRY,MUN,WHU,WOL    |AVL,SHU,SOU        |BHA,EVE,LEI        |CRY,LEI            |
 
-### Some more options to rotate defenders in GW 1-10
-
-
-|3 Teams, 2 Starting|3 Teams, 1 Starting|2 Teams, 1 Starting|
-|:-----------------:|:-----------------:|:-----------------:|
-|MUN,SOU,WBA|CRY,EVE,LEI|CRY,EVE|
-|CHE,FUL,LEI|AVL,SOU,WBA|CRY,NEW|
-|CRY,MUN,SOU|AVL,LEI,SOU|SHU,SOU|
-|BHA,CHE,LEI|BHA,EVE,SOU|LEE,WOL|
-|AVL,SHU,SOU|EVE,WHU,WOL|FUL,LEI|
-|CHE,LEE,WBA|BHA,EVE,WHU|LEE,LEI|
-|BUR,FUL,LEI|ARS,FUL,SHU|BUR,LEI|
-|ARS,AVL,WBA|ARS,FUL,NEW|CRY,WBA|
-|CRY,EVE,SOU|EVE,SOU,WBA|BUR,WBA|
-
-### Some more options to rotate defenders in GW 1-15
-
-|3 Teams, 2 Starting|3 Teams, 1 Starting|2 Teams, 1 Starting|
-|:-----------------:|:-----------------:|:-----------------:|
-|AVL,CHE,LEI|ARS,AVL,LEI|CRY,NEW|
-|CRY,MUN,WOL|AVL,CRY,SOU|AVL,LEI|
-|EVE,WBA,WHU|AVL,CHE,LEI|MUN,SOU|
-|BUR,FUL,LEI|BHA,EVE,SOU|BUR,WBA|
-|CHE,FUL,LEI|BHA,CRY,SOU|FUL,LEI|
-|CRY,MUN,SOU|AVL,BUR,LEI|FUL,SOU|
-|FUL,SHU,SOU|CRY,FUL,SOU|SHU,SOU|
-|CRY,EVE,NEW|BHA,SHU,SOU|BHA,SOU|
-|AVL,SHU,SOU|BHA,EVE,LEI|CRY,LEI|
-|ARS,AVL,WBA|MUN,SOU,WBA|ARS,CRY|
-|BUR,NEW,SOU|FUL,SHU,SOU|BUR,LEI|
 
 [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)
 
