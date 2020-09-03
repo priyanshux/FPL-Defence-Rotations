@@ -30,7 +30,7 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 
 ### The best way to use this repo would be:
 
-1. Don't rely just on 'my favourite' options given below in the tables, I would recommend you to go through all the possible options in the final result for each case.
+1. Don't rely just on 'some' good options given below in the tables, I would recommend you to go through all the possible options in the final result for each case.
 
 2. Pick one/two defenders you HAVE TO get, in most cases (including mine), it's just one - TAA.
 
@@ -41,7 +41,7 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 5. Don't stick to choices in the first 10 rows. In my opinion, a good combination would be having an 'Average per team' less than or around 2.1-2.2 and a Standard Deviation less than 0.9
 
 
-### My favourite options to rotate defenders in GW 1-10
+### Some good options to rotate defenders in GW 1-10
 
 | 4 Teams, 3 Starting | 4 Teams, 2 Starting | 5 Teams, 4 Starting | 5 Teams, 3 Starting |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
@@ -60,7 +60,7 @@ Created a [Difficulty Rating System Concept](https://github.com/priyanshux/FPL-D
 
 _*My current draft is based on this combination._
 
-### My favourite options to rotate defenders in GW 1-15
+### Some good options to rotate defenders in GW 1-15
 
 | 4 Teams, 3 Starting | 4 Teams, 2 Starting | 5 Teams, 4 Starting | 5 Teams, 3 Starting |
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
