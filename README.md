@@ -81,7 +81,7 @@ Category D: &nbsp;&nbsp; +0.1 against category 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 |-             |LEE           |SOU           |WBA           |
 |-             |CHE           |CRY           |FUL           |
 
-The final ratings till Gameweek 38 can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FPL_Defence_FDR.csv "Difficulty Ratings for Defenders").
+#### The final ratings till Gameweek 38 can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/FPL_Defence_FDR.csv "Difficulty Ratings for Defenders").
 
 [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)
 
@@ -113,27 +113,29 @@ Absolutely, I plan on doing this twice more before the season ends along with an
 
 ### Results for all the possible cases
 
-1. [Rotation of 4 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_2.csv)
 
-2. [Rotation of 4 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_3.csv)
 
-3. [Rotation of 5 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_3.csv)
+1. [Rotation of 5 teams for 4 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_4.csv)
 
-4. [Rotation of 5 teams for 4 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_4.csv)
+2. [Rotation of 5 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_5_3.csv)
 
-5. [Rotation of 4 teams for 2 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_2.csv)
+3. [Rotation of 4 teams for 3 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_3.csv)
 
-6. [Rotation of 4 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_3.csv)
+4. [Rotation of 4 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_4_2.csv)
 
-7. [Rotation of 5 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_3.csv)
+5. [Rotation of 3 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_3_2.csv)
+
+6. [Rotation of 3 teams for 1 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_3_1.csv)
+
+7. [Rotation of 2 teams for 1 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_2_1.csv)
 
 8. [Rotation of 5 teams for 4 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_4.csv)
 
-9. [Rotation of 3 teams for 2 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_3_2.csv)
+9. [Rotation of 5 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_5_3.csv)
 
-10. [Rotation of 3 teams for 1 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_3_1.csv)
+10. [Rotation of 4 teams for 3 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_3.csv)
 
-11. [Rotation of 2 teams for 1 in playing XI - Gameweek 1-10](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW10_2_1.csv)
+11. [Rotation of 4 teams for 2 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_4_2.csv)
 
 12. [Rotation of 3 teams for 2 in playing XI - Gameweek 1-15](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/GW15_3_2.csv)
 
