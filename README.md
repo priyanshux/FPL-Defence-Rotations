@@ -24,7 +24,7 @@
 
 4. Now search for options including the word 'WOL'.
 
-5. Don't stick to choices in the first 20 rows. In my opinion, a good combination would be having an 'Average per team' less than or around 2.1-2.2 and a Standard Deviation less than 1.
+5. Don't stick to choices in the first 20 rows. A good combination would be having an 'Average per team' less than or around 2.1-2.2 and a Standard Deviation less than 1.
 
 [Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)
 
