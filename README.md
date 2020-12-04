@@ -8,6 +8,15 @@ Note: This project is different from [FPL Predictor](https://github.com/priyansh
 
 [Here](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing) is the worksheet of all the compiled final results. The same results in CSV format can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/).
 
+## KWoC Updates, Issues and To-Do
+
+1. The Fixture Difficulty Ratings concept was prepared prior to the start of this extraordinary season and is outdated.
+2. The data fetched is till Gameweek 15.
+3. Feature Request: Take the Starting GW and Ending GW as input from the user and display options.
+4. Feature Request: Team Combos currently include all twenty clubs as default. Give the user an option to select specific clubs as input and then prepare the corresponding combinations.
+5. Enhancement: Combine the combinations CSV with the results CSV via script.
+6. Feature Request: Create a frontend dashboard to display the above mentioned features.
+
 ## Table of Contents
 
 1. [Best Way To Use This Repo](https://github.com/priyanshux/FPL-Defence-Rotations#best-way-to-use-this-repo)
