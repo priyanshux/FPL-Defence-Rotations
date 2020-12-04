@@ -4,6 +4,7 @@
 
 Built on the philosophy of selecting attackers based on their form, and defenders based on their fixtures, FPL Defence Rotations is a tool which gives you the best options to rotate your defenders from in Fantasy Premier League according to favourable oppositions who play comparatively less attacking football than the rest of the clubs. 
 
+Please join the [Slack Workspace](https://join.slack.com/t/fpldefencerotations/shared_invite/zt-k328w2ts-Vgw1c08pELUV6d7LKDZc8A) for better discussion on the project, football, and FPL.
 Note: This project is different from [FPL Predictor](https://github.com/priyanshux/FPL-Predictor).
 
 [Here](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing) is the worksheet of all the compiled final results. The same results in CSV format can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/).
