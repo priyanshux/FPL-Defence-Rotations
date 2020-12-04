@@ -1,5 +1,7 @@
 # FPL-Defence-Rotations
 
+Note: This project is different from [FPL Predictor](https://github.com/priyanshux/FPL-Predictor).
+
 ## Created for Fantasy Premier League 2020-21
 
 [Here](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing) is the worksheet of all the compiled final results. The same results in CSV format can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/).
