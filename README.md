@@ -12,9 +12,10 @@ Note: This project is different from [FPL Predictor](https://github.com/priyansh
 
 1. The Fixture Difficulty Ratings concept was prepared prior to the start of this extraordinary season and is outdated.
 2. The data fetched is till Gameweek 15.
-3. Feature Request: Take the Starting GW and Ending GW as input from the user and display the result.
-4. Feature Request: Team Combos currently include all twenty clubs as default. Give the user an option to select specific clubs as input and then prepare the corresponding combinations.
-5. Enhancement: Write a script for combining the combinations CSV with the final results CSV.
+3. Feature Request: Let managers choose their own Fixture Difficulty Ratings.
+4. Feature Request: Take the Starting GW and Ending GW as input from the user and display the result.
+5. Feature Request: Team Combos currently include all twenty clubs as default. Give the manager an option to select specific clubs as input and then prepare the corresponding combinations.
+6. Enhancement: Write a script for combining the combinations CSV with the final results CSV.
 6. Feature Request: Create a frontend dashboard to display the above mentioned features.
 7. Enjoy the 2020-21 season :)
 
