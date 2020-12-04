@@ -16,6 +16,7 @@ Note: This project is different from [FPL Predictor](https://github.com/priyansh
 4. Feature Request: Team Combos currently include all twenty clubs as default. Give the user an option to select specific clubs as input and then prepare the corresponding combinations.
 5. Enhancement: Write a script for combining the combinations CSV with the final results CSV.
 6. Feature Request: Create a frontend dashboard to display the above mentioned features.
+7. Enjoy the 2020-21 season :)
 
 ## Table of Contents
 
