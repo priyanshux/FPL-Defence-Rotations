@@ -2,7 +2,7 @@
 
 ## Created for Fantasy Premier League 2020-21
 
-Built on the philosophy of selecting attackers based on their form, and defenders based on their fixtures, FPL Defence Rotations is a tool which gives you the best options to rotate your defenders from in Fantasy Premier League
+Built on the philosophy of selecting attackers based on their form, and defenders based on their fixtures, FPL Defence Rotations is a tool which gives you the best options to rotate your defenders from in Fantasy Premier League according to favourable oppositions who play comparatively less attacking football than the rest of the clubs. 
 
 Note: This project is different from [FPL Predictor](https://github.com/priyanshux/FPL-Predictor).
 
