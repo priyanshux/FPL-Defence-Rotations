@@ -1,8 +1,10 @@
 # FPL-Defence-Rotations
 
-Note: This project is different from [FPL Predictor](https://github.com/priyanshux/FPL-Predictor).
-
 ## Created for Fantasy Premier League 2020-21
+
+FPL Defence Rotations is a tool which gives you the best options to rotate your defenders from in Fantasy Premier League. It is built on the philosophy of selecting attackers based on their form, and defenders based on their fixtures.
+
+Note: This project is different from [FPL Predictor](https://github.com/priyanshux/FPL-Predictor).
 
 [Here](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing) is the worksheet of all the compiled final results. The same results in CSV format can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/).
 
@@ -113,7 +115,7 @@ The last part of Answer 1 answers this as well. Adding to that, if you go throug
 There are a total of 14 sheets attached inside the worksheet, which you should be able to navigate through from the bottom left icon in [Google Sheets](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing). The names are assigned in the format of GWxx_y_z where xx denotes until which GW, y denotes the number of players you wish to rotate and z denotes the number of players in your starting 11. For eg; GW15_4_3 denotes the list of GW1-15 for rotating 4 players where 3 of them start in the playing 11.
 
 #### 6. Will you be creating such combinations during mid-season as well? If yes, will you update the ratings based on their then form?
-Absolutely, I plan on doing this twice more before the season ends along with an updated difficulty ratings sheet.
+Yes, I plan on doing this twice more before the season ends along with an updated difficulty ratings sheet.
 
 <sup>[Back To Top](https://github.com/priyanshux/FPL-Defence-Rotations#fpl-defence-rotations)</sup>
 
