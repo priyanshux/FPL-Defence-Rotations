@@ -14,7 +14,7 @@ Note: This project is different from [FPL Predictor](https://github.com/priyansh
 2. The data fetched is till Gameweek 15.
 3. Feature Request: Take the Starting GW and Ending GW as input from the user and display options.
 4. Feature Request: Team Combos currently include all twenty clubs as default. Give the user an option to select specific clubs as input and then prepare the corresponding combinations.
-5. Enhancement: Combine the combinations CSV with the results CSV via script.
+5. Enhancement: Write a script for combining the combinations CSV with the final results CSV.
 6. Feature Request: Create a frontend dashboard to display the above mentioned features.
 
 ## Table of Contents
