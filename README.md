@@ -10,7 +10,7 @@ Note: This project is different from [FPL Predictor](https://github.com/priyansh
 
 [Here](https://docs.google.com/spreadsheets/d/1blJu2sBmwoUA1Npiek3zm4vnPg7pBfS4KFraI2EdGQo/edit?usp=sharing) is the worksheet of all the compiled final results. The same results in CSV format can be found [here](https://github.com/priyanshux/FPL-Defence-Rotations/blob/master/Results/).
 
-## KWoC Updates, Issues and To-Do
+## Updates, Issues and To-Do
 
 1. The Fixture Difficulty Ratings concept was prepared prior to the start of this extraordinary season and is outdated.
 2. The data fetched is till Gameweek 15.
